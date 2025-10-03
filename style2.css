@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: 'Seasons', serif;
+  background: #fff;
+  text-align: center;
+}
+
+.redirect {
+  margin: 20px 0;
+}
+
+.redirect a {
+  display: inline-block;
+  padding: 12px 24px;
+  font-size: 18px;
+  font-weight: bold;
+  background: #c9a56d;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background 0.3s ease;
+}
+
+.redirect a:hover {
+  background: #a37e49;
+}
